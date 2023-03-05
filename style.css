@@ -1,0 +1,19 @@
+.cards{
+    border: 2px solid black;
+    border-radius: 9px;
+}
+
+#addTxt{
+    border: 2px solid gray;
+}
+element.style {
+    border: 2px solid black;
+}
+
+.card-body{
+    border: 2px solid black;
+}
+
+.fc{
+    border: 1px solid black;
+}
