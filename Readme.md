@@ -22,6 +22,7 @@ To use the application, simply enter a task title and description in the input f
 Credits
 The application was built by Aditya Kumar.
 
+![Todo list](https://user-images.githubusercontent.com/108165308/222953380-8ca8369e-9d87-46dd-bf95-10bed513d3b6.png)
 
 
 
